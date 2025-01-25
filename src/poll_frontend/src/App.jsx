@@ -90,7 +90,7 @@ const App = () => {
           ))}
         </ul>
       </div>
-      <button onClick={handleReset}>Reset Poll</button>
+      <button onClick={handleReset}>Reset</button>
     </div>
   );
 };
